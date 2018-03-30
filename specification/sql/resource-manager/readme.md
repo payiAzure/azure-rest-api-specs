@@ -136,7 +136,6 @@ input-file:
 # Needed when there is more than one input file
 override-info:
   title: SqlManagementClient
->>>>>>> 792038193639709b801d8ca521683134a47d3e08
 ```
 
 ### Tag: package-composite-v1
